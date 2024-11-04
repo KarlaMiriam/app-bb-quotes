@@ -33,4 +33,4 @@
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/karla-miriam/app-bb-quotes.git
+   git clone https://github.com/KarlaMiriam/app-bb-quotes.git
